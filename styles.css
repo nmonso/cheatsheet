@@ -1,0 +1,46 @@
+header {
+    background-image: url("Resources/3392075.jpg");
+    background-position: 10% 113%;}
+
+img {
+    width: 500px;
+    height: 500px;
+    align: center;}
+
+img.align-center {
+    display: block;
+    margin: 0px auto;}
+
+body {
+    background-color: steelblue;}
+
+h1, table {
+    color: white;}
+
+h1 {
+    text-align: center;
+    font-size: 40px;}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;}
+  
+td, th { 
+    font-family: 'Merriweather', serif;
+    border: 2px solid;
+    padding: 10px;}
+
+.head {
+    font-weight: bold;
+    font-size: 24px;}
+
+  
+.tag {
+      font-weight: bold;}
+
+footer {
+      color: LightSteelBlue;
+      display: inline-block;}
+  
